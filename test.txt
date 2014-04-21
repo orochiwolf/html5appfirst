@@ -1,0 +1,2 @@
+Key 'C:\Users\orochi/.ssh/id_rsa.pub' seems to be invalid or not found!
+Type "Yes" to generate a new default SSH-key pair: 
